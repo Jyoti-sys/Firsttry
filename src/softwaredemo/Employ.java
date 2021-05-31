@@ -8,6 +8,7 @@ package softwaredemo;
 /**
  *
  * @author Bogambo
+ * date:31 may
  */
 public class Employ {
     String name;
